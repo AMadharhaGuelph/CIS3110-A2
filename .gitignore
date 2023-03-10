@@ -1,0 +1,6 @@
+*.out
+*.txt
+fileGenerator.c
+*.hist
+*.o
+A2
